@@ -1,0 +1,42 @@
+
+.container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+.space {
+    margin: 10px 0;
+}
+
+
+button {
+    padding: 10px 20px;
+    background-color: #0074d9;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+.mostrar{
+    display: block;
+    margin: 5px 0;
+    font-weight: bold;
+    border: solid;
+   
+   
+    
+
+}
+
+#para{
+   border: 0px;
+}
